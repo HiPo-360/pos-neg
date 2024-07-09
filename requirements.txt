@@ -2,3 +2,4 @@ flask
 nltk
 gunicorn
 waitress
+pymongo[srv]
